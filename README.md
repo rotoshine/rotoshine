@@ -4,6 +4,8 @@ Web Front-end Engineer
 * 🌍  I'm based in Seoul
 * ✉️  You can contact me at [rotoshine@gmail.com](mailto:rotoshine@gmail.com)
 * 🖥️  [indistreet](https://indistreet.com)
+* 🖥️  [idiots.band](https://idiots.band)
+* 🖥️  [blog](https://blog.roto.codes)
 
 <a href="https://www.twitter.com/winterwolf0412" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/winterwolf0412?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
